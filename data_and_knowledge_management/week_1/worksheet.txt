@@ -1,0 +1,5 @@
+1.	DBMS: An abstraction designed to store, collect, and modify data that has attributes and relationships within itself, whilst allowing those relationships to persists through changes to the data
+2.	We want redundancy where the sacrifice in space is compensated for in some other way (i.e. ease of access, speed of access, logical congruency, error checking, etc)
+3.	Enforced standards allow the interaction between databases to be risk free, otherwise each database would be an island.
+4.	Redundancy can cause errors where mismatch occurs (often in simple ways like casing and untrimmed spaces), by taking up too much space, and by slowing down queries and requests to the db
+5.	Yes
